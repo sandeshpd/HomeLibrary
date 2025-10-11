@@ -14,6 +14,8 @@ It also demonstrates how MongoDB can serve as a reliable, scalable database solu
 - Scalable backend storage provided by MongoDB.
 
 # Tech Stack
+| Part | Technology |
+| -------- | -------- |
 | Frontend | JavaScript/React |
 | Backend | Go/gin-gonic |
 | Database | MongoDB |
